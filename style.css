@@ -89,8 +89,10 @@ list-style-type: none;
     height: 100px;
     margin:30px auto;
 }
-.menu ul ul li a{
+
+.menu #link{
     background-color: #1A120B;
+    color: #FFFFFF;
 }
 .menu li :hover  {
     border-style: solid;
